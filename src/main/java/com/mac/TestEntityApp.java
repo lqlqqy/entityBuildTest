@@ -70,6 +70,10 @@ public class TestEntityApp extends GameApplication {
         System.out.println(s);
 
 
+        for (int i = 0; i < 3; i++) {
+
+        }
+
 
     }
 
